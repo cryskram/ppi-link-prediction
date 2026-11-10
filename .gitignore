@@ -1,0 +1,15 @@
+# Python virtualenv (recreate with: python3 -m venv .venv && .venv/bin/pip install -r requirements.txt)
+.venv/
+
+# Jupyter / Python caches
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.ruff_cache/
+
+# Execution logs
+exec.log
+*.log
+
+# Regenerable bundle (rebuild with: zip -qr sna_aat_deliverables.zip PPI_Link_Prediction_SNA.ipynb README.md data figures outputs)
+sna_aat_deliverables.zip

@@ -1,0 +1,19 @@
+# Recreate the project environment:
+#   python3 -m venv .venv
+#   .venv/bin/pip install -r requirements.txt
+# (NixOS note: pip wheels need libstdc++/zlib at runtime — see README or LEARNINGS
+#  2026-10-29 entry; export LD_LIBRARY_PATH accordingly before running.)
+networkx==3.7
+pandas==3.1.1
+numpy==2.5.4
+scikit-learn==1.9.1
+scipy==1.18.1
+matplotlib==3.11.2
+seaborn==0.13.2
+jupyter
+nbformat==5.11.1
+nbconvert==7.17.2
+nbclient==0.11.0
+ipykernel==7.4.0
+pyvis==0.3.2
+jsonpickle==4.1.4

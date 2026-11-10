@@ -1,0 +1,678 @@
+id,entrez,symbol,name,degree,betweenness,community,is_ddr_seed
+TRIM27,5987,TRIM27,tripartite motif containing 27,39,0.00145,75,False
+POLE,5426,POLE,"DNA polymerase epsilon, catalytic subunit",25,0.00031,57,False
+DNAJC7,7266,DNAJC7,DnaJ heat shock protein family (Hsp40) member C7,29,0.0004,36,False
+SRSF1,6426,SRSF1,serine and arginine rich splicing factor 1,77,0.00093,23,False
+NBN,4683,NBN,nibrin,56,0.00173,57,True
+SSRP1,6749,SSRP1,structure specific recognition protein 1,114,0.00355,40,False
+HDAC2,3066,HDAC2,histone deacetylase 2,108,0.00523,69,False
+KAT2B,8850,KAT2B,lysine acetyltransferase 2B,59,0.00133,18,False
+HNRNPU,3192,HNRNPU,heterogeneous nuclear ribonucleoprotein U,152,0.0057,43,False
+EIF2A,83939,EIF2A,eukaryotic translation initiation factor 2A,66,0.00043,43,False
+RPA2,6118,RPA2,replication protein A2,129,0.01043,57,False
+THRAP3,9967,THRAP3,thyroid hormone receptor associated protein 3,43,0.00058,24,False
+TMPO,7112,TMPO,thymopoietin,37,0.00048,62,False
+H3C14,126961,H3C14,H3 clustered histone 14,34,0.00074,63,False
+CENPX,201254,CENPX,centromere protein X,15,0.00022,57,False
+H3-3B,3021,H3-3B,H3.3 histone B,17,0.00012,63,False
+TAF10,6881,TAF10,TATA-box binding protein associated factor 10,26,0.00045,51,False
+FANCC,2176,FANCC,FA complementation group C,30,0.00099,57,True
+RFC3,5983,RFC3,replication factor C subunit 3,34,0.0006,57,False
+RPL14,9045,RPL14,ribosomal protein L14,92,0.00054,43,False
+TNFRSF1A,7132,TNFRSF1A,TNF receptor superfamily member 1A,45,0.00086,29,False
+FOXL1,2300,FOXL1,forkhead box L1,11,7e-05,14,False
+PCBP2,5094,PCBP2,poly(rC) binding protein 2,66,0.00026,43,False
+POT1,25913,POT1,protection of telomeres 1,30,0.00035,33,True
+HNRNPK,3190,HNRNPK,heterogeneous nuclear ribonucleoprotein K,89,0.00162,23,False
+XRCC1,7515,XRCC1,X-ray repair cross complementing 1,35,0.0022,57,True
+BRCC3,79184,BRCC3,BRCA1/BRCA2-containing complex subunit 3,31,0.00048,57,True
+FBXW11,23291,FBXW11,F-box and WD repeat domain containing 11,50,0.00103,29,False
+ID:155807,155807,ID:155807,unknown,33,0.00062,20,False
+H4C9,8294,H4C9,H4 clustered histone 9,31,0.0003,63,False
+CSNK2A1,1457,CSNK2A1,casein kinase 2 alpha 1,105,0.00455,68,False
+UBE2B,7320,UBE2B,ubiquitin conjugating enzyme E2 B,19,0.00024,71,False
+GRWD1,83743,GRWD1,glutamate rich WD repeat containing 1,22,6e-05,20,False
+RNF2,6045,RNF2,ring finger protein 2,137,0.00753,68,False
+CEBPA,1050,CEBPA,CCAAT enhancer binding protein alpha,31,0.00022,18,False
+H4C1,8359,H4C1,H4 clustered histone 1,65,0.00153,63,False
+CEP43,11116,CEP43,centrosomal protein 43,14,0.0002,64,False
+CBX3,11335,CBX3,chromobox 3,52,0.00098,63,False
+RPS14,6208,RPS14,ribosomal protein S14,111,0.00107,43,False
+KAT7,11143,KAT7,lysine acetyltransferase 7,18,0.00016,51,False
+XPC,7508,XPC,"XPC complex subunit, DNA damage recognition and repair factor",30,0.00156,57,True
+FAAP24,91442,FAAP24,FA core complex associated protein 24,11,0.00018,57,False
+RFC5,5985,RFC5,replication factor C subunit 5,36,0.00068,57,False
+H4C8,8365,H4C8,H4 clustered histone 8,29,0.00024,63,False
+RPS27A,6233,RPS27A,ribosomal protein S27a,84,0.0017,10,False
+BTRC,8945,BTRC,beta-transducin repeat containing E3 ubiquitin protein ligase,61,0.00159,29,False
+ILF3,3609,ILF3,interleukin enhancer binding factor 3,103,0.00107,43,False
+TUBA4A,7277,TUBA4A,tubulin alpha 4a,56,0.00076,19,False
+RPL13,6137,RPL13,ribosomal protein L13,112,0.00107,43,False
+GANAB,23193,GANAB,glucosidase II alpha subunit,22,0.00016,80,False
+HDAC5,10014,HDAC5,histone deacetylase 5,105,0.00276,63,False
+COPS5,10987,COPS5,COP9 signalosome subunit 5,182,0.00961,20,False
+XRCC2,7516,XRCC2,X-ray repair cross complementing 2,5,1e-05,57,True
+COPS4,51138,COPS4,COP9 signalosome subunit 4,33,0.00031,20,False
+RPL11,6135,RPL11,ribosomal protein L11,113,0.00094,43,False
+CBX4,8535,CBX4,chromobox 4,28,0.0004,68,True
+HSP90AB1,3326,HSP90AB1,heat shock protein 90 alpha family class B member 1,141,0.00399,17,False
+CPSF6,11052,CPSF6,cleavage and polyadenylation specific factor 6,43,0.00026,23,False
+TSC22D1,8848,TSC22D1,TSC22 domain family member 1,23,0.00036,20,False
+RAD51C,5889,RAD51C,RAD51 paralog C,7,0.00012,57,True
+HDAC3,8841,HDAC3,histone deacetylase 3,51,0.00061,18,False
+TERT,7015,TERT,telomerase reverse transcriptase,33,0.00067,33,False
+RPL8,6132,RPL8,ribosomal protein L8,108,0.00067,43,False
+CUL5,8065,CUL5,cullin 5,130,0.00399,20,False
+RELA,5970,RELA,"RELA proto-oncogene, NF-kB subunit",94,0.00253,29,False
+HSPD1,3329,HSPD1,heat shock protein family D (Hsp60) member 1,99,0.00209,17,False
+USF1,7391,USF1,upstream transcription factor 1,24,0.00038,69,False
+ELAVL1,1994,ELAVL1,ELAV like RNA binding protein 1,154,0.01194,6,False
+HDAC8,55869,HDAC8,histone deacetylase 8,12,4e-05,54,False
+WDR5,11091,WDR5,WD repeat domain 5,64,0.00196,69,False
+DNMT1,1786,DNMT1,DNA methyltransferase 1,39,0.00054,63,False
+H3C8,8355,H3C8,H3 clustered histone 8,23,0.00011,63,False
+UIMC1,51720,UIMC1,ubiquitin interaction motif containing 1,28,0.00038,57,False
+TK1,7083,TK1,thymidine kinase 1,20,0.00039,27,False
+SRRM1,10250,SRRM1,serine and arginine repetitive matrix 1,58,0.00073,23,False
+UBE2E1,7324,UBE2E1,ubiquitin conjugating enzyme E2 E1,21,0.00018,10,False
+MGMT,4255,MGMT,O-6-methylguanine-DNA methyltransferase,36,0.00021,21,False
+RPL31,6160,RPL31,ribosomal protein L31,91,0.00053,43,False
+RPS23,6228,RPS23,ribosomal protein S23,90,0.00064,43,False
+RAD50,10111,RAD50,RAD50 double strand break repair protein,67,0.00376,57,True
+USP11,8237,USP11,ubiquitin specific peptidase 11,32,0.00046,39,False
+RAD23B,5887,RAD23B,RAD23 nucleotide excision repair protein B,30,0.00064,19,True
+SPTAN1,6709,SPTAN1,"spectrin alpha, non-erythrocytic 1",38,0.00075,54,False
+H2BC21,8349,H2BC21,H2B clustered histone 21,90,0.00249,63,False
+MCRS1,10445,MCRS1,microspherule protein 1,21,0.00044,75,False
+PSME3,10197,PSME3,proteasome activator subunit 3,34,0.00067,19,False
+RUVBL2,10856,RUVBL2,RuvB like AAA ATPase 2,128,0.00673,51,True
+SHMT2,6472,SHMT2,serine hydroxymethyltransferase 2,42,0.00106,3,False
+RPA1,6117,RPA1,replication protein A1,156,0.0211,57,False
+SUPT5H,6829,SUPT5H,"SPT5 homolog, DSIF elongation factor subunit",38,0.00032,24,False
+FAN1,22909,FAN1,FANCD2 and FANCI associated nuclease 1,10,3e-05,57,False
+RACK1,10399,RACK1,receptor for activated C kinase 1,77,0.0008,40,False
+FANCG,2189,FANCG,FA complementation group G,30,0.00133,57,True
+KIF23,9493,KIF23,kinesin family member 23,30,0.00019,68,False
+TARS1,6897,TARS1,threonyl-tRNA synthetase 1,71,0.00034,43,False
+HDGF,3068,HDGF,heparin binding growth factor,60,0.0014,63,False
+GTF2H2,2966,GTF2H2,general transcription factor IIH subunit 2,10,6e-05,24,False
+FANCE,2178,FANCE,FA complementation group E,14,0.00018,57,True
+COP1,64326,COP1,COP1 E3 ubiquitin ligase,23,9e-05,20,False
+GAPDH,2597,GAPDH,glyceraldehyde-3-phosphate dehydrogenase,81,0.00169,40,False
+XRCC4,7518,XRCC4,X-ray repair cross complementing 4,13,0.00012,57,True
+POLR2B,5431,POLR2B,RNA polymerase II subunit B,34,0.00078,24,False
+H3C10,8357,H3C10,H3 clustered histone 10,25,0.00013,63,False
+H2AC20,8338,H2AC20,H2A clustered histone 20,41,0.00094,63,False
+MCM2,4171,MCM2,minichromosome maintenance complex component 2,171,0.01109,26,False
+PARP2,10038,PARP2,poly(ADP-ribose) polymerase 2,22,0.00033,57,True
+MBD4,8930,MBD4,"methyl-CpG binding domain 4, DNA glycosylase",8,2e-05,63,True
+SUZ12,23512,SUZ12,SUZ12 polycomb repressive complex 2 subunit,73,0.00195,23,False
+SART1,9092,SART1,"spliceosome associated factor 1, recruiter of U4/U6.U5 tri-snRNP",49,0.00035,23,False
+PLK1,5347,PLK1,polo like kinase 1,72,0.00467,50,True
+CDKN1A,1026,CDKN1A,cyclin dependent kinase inhibitor 1A,73,0.00171,21,False
+RPS11,6205,RPS11,ribosomal protein S11,99,0.00058,43,False
+CCNH,902,CCNH,cyclin H,27,0.00063,24,False
+RPS6,6194,RPS6,ribosomal protein S6,101,0.00071,43,False
+DDX19B,11269,DDX19B,DEAD-box helicase 19B,60,0.00029,26,False
+BANP,54971,BANP,BTG3 associated nuclear protein,22,0.00025,75,False
+RBBP8,5932,RBBP8,"RB binding protein 8, endonuclease",26,0.00044,57,True
+VCAM1,7412,VCAM1,vascular cell adhesion molecule 1,113,0.00209,40,False
+MMS19,64210,MMS19,MMS19 cytosolic iron-sulfur assembly component,38,0.00148,57,False
+HSP90AA1,3320,HSP90AA1,heat shock protein 90 alpha family class A member 1,150,0.00681,78,False
+CDK4,1019,CDK4,cyclin dependent kinase 4,46,0.00065,21,False
+CUL7,9820,CUL7,cullin 7,153,0.0061,62,False
+HSPA1L,3305,HSPA1L,heat shock protein family A (Hsp70) member 1 like,34,0.0002,29,False
+SRPK1,6732,SRPK1,SRSF protein kinase 1,81,0.00086,11,False
+RPS10,6204,RPS10,ribosomal protein S10,84,0.00071,43,False
+POLN,353497,POLN,DNA polymerase nu,7,5e-05,57,False
+CSNK2B,1460,CSNK2B,casein kinase 2 beta,57,0.00217,42,False
+ERCC3,2071,ERCC3,"ERCC excision repair 3, TFIIH core complex helicase subunit",37,0.00106,24,True
+MDC1,9656,MDC1,mediator of DNA damage checkpoint 1,85,0.0044,57,True
+PARP1,142,PARP1,poly(ADP-ribose) polymerase 1,123,0.00995,57,True
+KPNB1,3837,KPNB1,karyopherin subunit beta 1,82,0.00198,62,False
+FBXO6,26270,FBXO6,F-box protein 6,95,0.00221,8,False
+USP5,8078,USP5,ubiquitin specific peptidase 5,15,0.00011,10,False
+ABCE1,6059,ABCE1,ATP binding cassette subfamily E member 1,42,0.00057,33,False
+YWHAG,7532,YWHAG,tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein gamma,115,0.00408,9,False
+CREBBP,1387,CREBBP,CREB binding lysine acetyltransferase,77,0.00229,18,False
+ODF2,4957,ODF2,outer dense fiber of sperm tails 2,14,0.00054,64,False
+EEF1A1,1915,EEF1A1,eukaryotic translation elongation factor 1 alpha 1,155,0.00478,43,False
+ABRAXAS1,84142,ABRAXAS1,"abraxas 1, BRCA1 A complex subunit",15,0.0001,57,False
+HELQ,113510,HELQ,"helicase, POLQ like",9,0.00024,57,False
+MORF4L1,10933,MORF4L1,mortality factor 4 like 1,31,0.00041,51,False
+TTK,7272,TTK,TTK protein kinase,25,0.00048,64,True
+UNG,7374,UNG,uracil DNA glycosylase,10,4e-05,57,True
+TRRAP,8295,TRRAP,transformation/transcription domain associated protein,39,0.00073,51,False
+ERCC8,1161,ERCC8,"ERCC excision repair 8, CSA ubiquitin ligase complex subunit",19,0.00083,20,True
+HMGB1,3146,HMGB1,high mobility group box 1,32,0.00044,18,False
+DCTN1,1639,DCTN1,dynactin subunit 1,25,0.0002,64,False
+RPL30,6156,RPL30,ribosomal protein L30,90,0.00042,43,False
+ABL1,25,ABL1,"ABL proto-oncogene 1, non-receptor tyrosine kinase",54,0.00111,2,False
+BECN1,8678,BECN1,beclin 1,16,6e-05,73,False
+PCNA,5111,PCNA,proliferating cell nuclear antigen,167,0.02156,57,True
+TFG,10342,TFG,trafficking from ER to golgi regulator,20,0.00012,45,False
+MSH3,4437,MSH3,mutS homolog 3,16,0.00016,57,False
+RPA4,29935,RPA4,replication protein A4,12,0.00011,57,False
+EWSR1,2130,EWSR1,EWS RNA binding protein 1,104,0.00348,44,False
+RTEL1,51750,RTEL1,regulator of telomere elongation helicase 1,6,1e-05,57,True
+DNA2,1763,DNA2,DNA replication helicase/nuclease 2,6,1e-05,57,True
+ALDOA,226,ALDOA,"aldolase, fructose-bisphosphate A",31,0.00024,65,False
+SMN1,6606,SMN1,"survival of motor neuron 1, telomeric",38,0.00075,27,False
+PPP2CA,5515,PPP2CA,protein phosphatase 2 catalytic subunit alpha,44,0.00055,53,False
+CBX8,57332,CBX8,chromobox 8,53,0.00149,68,True
+CDC6,990,CDC6,cell division cycle 6,24,0.00015,21,False
+TOP2B,7155,TOP2B,DNA topoisomerase II beta,50,0.00068,57,False
+PMS2,5395,PMS2,"PMS1 homolog 2, mismatch repair system component",28,0.00051,57,True
+SIRT7,51547,SIRT7,sirtuin 7,115,0.00483,62,False
+DDB2,1643,DDB2,damage specific DNA binding protein 2,34,0.00063,20,True
+SNRPB,6628,SNRPB,small nuclear ribonucleoprotein polypeptides B and B1,50,0.00034,23,False
+SPRTN,83932,SPRTN,SprT-like N-terminal domain,29,0.00042,57,False
+SNU13,4809,SNU13,small nuclear ribonucleoprotein 13,69,0.00055,23,False
+HSPA5,3309,HSPA5,heat shock protein family A (Hsp70) member 5,112,0.00341,19,False
+SHPRH,257218,SHPRH,SNF2 histone linker PHD RING helicase,10,6e-05,71,True
+NR3C1,2908,NR3C1,nuclear receptor subfamily 3 group C member 1,54,0.00109,18,False
+APTX,54840,APTX,aprataxin,10,0.00011,57,False
+CDC20,991,CDC20,cell division cycle 20,44,0.00107,50,False
+HNRNPUL1,11100,HNRNPUL1,heterogeneous nuclear ribonucleoprotein U like 1,48,0.00038,17,False
+RNF11,26994,RNF11,ring finger protein 11,25,0.00048,10,False
+RBM39,9584,RBM39,RNA binding motif protein 39,55,0.00054,23,False
+MBD3,53615,MBD3,methyl-CpG binding domain protein 3,42,0.00077,69,False
+RAD51,5888,RAD51,RAD51 recombinase,48,0.00849,57,True
+TINF2,26277,TINF2,TERF1 interacting nuclear factor 2,15,0.00014,33,False
+COPG1,22820,COPG1,coat protein complex I subunit gamma 1,22,0.00025,80,False
+CCNA2,890,CCNA2,cyclin A2,46,0.00067,21,False
+CSNK2A2,1459,CSNK2A2,casein kinase 2 alpha 2,59,0.00123,68,False
+HERC2,8924,HERC2,HECT and RLD domain containing E3 ubiquitin protein ligase 2,24,0.00071,80,False
+TP53,7157,TP53,tumor protein p53,250,0.03569,0,True
+ERCC6,2074,ERCC6,"ERCC excision repair 6, chromatin remodeling factor",32,0.00074,20,True
+PRDX1,5052,PRDX1,peroxiredoxin 1,40,0.00048,37,False
+TACC3,10460,TACC3,transforming acidic coiled-coil containing protein 3,8,4e-05,71,False
+TOP2A,7153,TOP2A,DNA topoisomerase II alpha,67,0.00132,57,False
+WEE1,7465,WEE1,WEE1 G2 checkpoint kinase,18,0.0001,21,True
+EED,8726,EED,embryonic ectoderm development,119,0.0044,69,False
+OBSL1,23363,OBSL1,obscurin like cytoskeletal adaptor 1,135,0.00416,62,False
+FLNA,2316,FLNA,filamin A,52,0.00075,54,False
+BABAM1,29086,BABAM1,BRISC and BRCA1 A complex member 1,15,9e-05,33,True
+JUN,3725,JUN,"Jun proto-oncogene, AP-1 transcription factor subunit",69,0.00139,18,False
+RPS3,6188,RPS3,ribosomal protein S3,121,0.00171,43,False
+MECP2,4204,MECP2,methyl-CpG binding protein 2,25,0.00028,63,False
+RAD17,5884,RAD17,RAD17 checkpoint clamp loader component,18,0.00013,57,False
+RAD23A,5886,RAD23A,RAD23 nucleotide excision repair protein A,41,0.00078,19,True
+BAZ1A,11177,BAZ1A,bromodomain adjacent to zinc finger domain 1A,25,0.00021,69,False
+GPS1,2873,GPS1,G protein pathway suppressor 1,22,0.00016,20,False
+ESR1,2099,ESR1,estrogen receptor 1,170,0.0095,24,False
+GCN1,10985,GCN1,GCN1 activator of EIF2AK4,97,0.00163,17,False
+USP4,7375,USP4,ubiquitin specific peptidase 4,22,0.00018,39,False
+RPL6,6128,RPL6,ribosomal protein L6,113,0.00091,43,False
+YBX1,4904,YBX1,Y-box binding protein 1,117,0.00163,43,False
+CEP250,11190,CEP250,centrosomal protein 250,68,0.00105,43,False
+NFKB2,4791,NFKB2,nuclear factor kappa B subunit 2,59,0.00042,29,False
+USP7,7874,USP7,ubiquitin specific peptidase 7,77,0.00357,39,False
+ESCO2,157570,ESCO2,establishment of sister chromatid cohesion N-acetyltransferase 2,13,0.00012,69,True
+RPA3,6119,RPA3,replication protein A3,103,0.00604,57,False
+COPS3,8533,COPS3,COP9 signalosome subunit 3,22,0.00012,20,False
+PSMA2,5683,PSMA2,proteasome 20S subunit alpha 2,39,0.00043,19,False
+TADA3,10474,TADA3,transcriptional adaptor 3,19,6e-05,51,False
+MCM4,4173,MCM4,minichromosome maintenance complex component 4,77,0.00101,21,False
+TDG,6996,TDG,thymine DNA glycosylase,18,0.00011,18,True
+RPS6KB2,6199,RPS6KB2,ribosomal protein S6 kinase B2,57,0.00054,53,False
+INO80,54617,INO80,INO80 complex ATPase subunit,12,0.00011,51,True
+CTNNB1,1499,CTNNB1,catenin beta 1,82,0.0027,47,False
+CHD1L,9557,CHD1L,chromodomain helicase DNA binding protein 1 like,24,0.00051,57,True
+FANCL,55120,FANCL,FA complementation group L,20,0.00039,57,True
+IKZF1,10320,IKZF1,IKAROS family zinc finger 1,24,0.00044,75,False
+CENPA,1058,CENPA,centromere protein A,54,0.00097,68,False
+ATM,472,ATM,ATM serine/threonine kinase,84,0.00478,57,True
+APC,324,APC,APC regulator of Wnt signaling pathway,36,0.00098,62,False
+COPS2,9318,COPS2,COP9 signalosome subunit 2,29,0.00021,20,False
+RBX1,9978,RBX1,ring-box 1,48,0.00076,20,False
+HSPA1A,3303,HSPA1A,heat shock protein family A (Hsp70) member 1A,85,0.00217,19,False
+TARDBP,23435,TARDBP,TAR DNA binding protein,89,0.00111,76,False
+RNF8,9025,RNF8,ring finger protein 8,34,0.00117,10,True
+DEK,7913,DEK,DEK proto-oncogene,48,0.00097,63,True
+PIAS1,8554,PIAS1,protein inhibitor of activated STAT 1,81,0.00151,18,False
+SMC3,9126,SMC3,structural maintenance of chromosomes 3,67,0.00292,69,True
+ID:2703458,2703458,ID:2703458,unknown,10,1e-05,69,False
+MCPH1,79648,MCPH1,microcephalin 1,17,0.0001,57,False
+UBA1,7317,UBA1,ubiquitin like modifier activating enzyme 1,45,0.00075,10,False
+PIAS2,9063,PIAS2,protein inhibitor of activated STAT 2,79,0.00135,18,False
+ESCO1,114799,ESCO1,establishment of sister chromatid cohesion N-acetyltransferase 1,9,0.00012,53,True
+CLU,1191,CLU,clusterin,21,0.00011,80,False
+XPA,7507,XPA,"XPA, DNA damage recognition and repair factor",21,0.00035,57,True
+CHD4,1108,CHD4,chromodomain helicase DNA binding protein 4,58,0.00095,69,False
+SRRM2,23524,SRRM2,serine/arginine repetitive matrix 2,74,0.00108,23,False
+RAD54L,8438,RAD54L,RAD54 like,3,2e-05,25,True
+TUBB4B,10383,TUBB4B,tubulin beta 4B class IVb,46,0.00053,56,False
+RFC1,5981,RFC1,replication factor C subunit 1,46,0.00085,57,False
+MLH1,4292,MLH1,mutL homolog 1,53,0.00238,57,True
+THRA,7067,THRA,thyroid hormone receptor alpha,29,0.00027,18,False
+DNAJB1,3337,DNAJB1,DnaJ heat shock protein family (Hsp40) member B1,27,0.00021,65,False
+SFPQ,6421,SFPQ,splicing factor proline and glutamine rich,73,0.00122,23,False
+SUPT16H,11198,SUPT16H,"SPT16 homolog, facilitates chromatin remodeling subunit",82,0.00304,68,False
+GTF2H1,2965,GTF2H1,general transcription factor IIH subunit 1,22,0.00039,24,False
+RNF146,81847,RNF146,ring finger protein 146,17,0.00017,57,False
+SF3B3,23450,SF3B3,splicing factor 3b subunit 3,137,0.00337,23,False
+H2AZ1,3015,H2AZ1,H2A.Z variant histone 1,31,0.00047,51,True
+MSH6,2956,MSH6,mutS homolog 6,51,0.00209,57,True
+RHNO1,83695,RHNO1,RAD9-HUS1-RAD1 interacting nuclear orphan 1,9,8e-05,57,False
+CREB1,1385,CREB1,cAMP responsive element binding protein 1,37,0.00064,18,False
+ENO1,2023,ENO1,enolase 1,66,0.00091,65,False
+XRCC5,7520,XRCC5,X-ray repair cross complementing 5,103,0.00638,57,True
+SUMO2,6613,SUMO2,small ubiquitin like modifier 2,66,0.0023,63,False
+RPL29,6159,RPL29,ribosomal protein L29,93,0.00037,43,False
+PSMD4,5710,PSMD4,"proteasome 26S subunit ubiquitin receptor, non-ATPase 4",45,0.00088,19,False
+AURKB,9212,AURKB,aurora kinase B,63,0.00245,63,True
+H4C16,121504,H4C16,H4 histone 16,61,0.0013,63,False
+DCAF1,9730,DCAF1,DDB1 and CUL4 associated factor 1,31,0.00036,20,False
+TFAP4,7023,TFAP4,transcription factor AP-4,20,0.00022,69,False
+ILK,3611,ILK,integrin linked kinase,39,0.00061,52,False
+RECQL5,9400,RECQL5,RecQ like helicase 5,15,0.00014,24,False
+MAX,4149,MAX,MYC associated transcriptional regulator X,38,0.00064,68,False
+RPL21,6144,RPL21,ribosomal protein L21,105,0.0006,43,False
+NUMA1,4926,NUMA1,nuclear mitotic apparatus protein 1,45,0.00061,33,False
+RPS27,6232,RPS27,ribosomal protein S27,62,0.00034,43,False
+AKT1,207,AKT1,AKT serine/threonine kinase 1,76,0.00229,49,False
+GRB2,2885,GRB2,growth factor receptor bound protein 2,126,0.00516,2,False
+NXF1,10482,NXF1,nuclear RNA export factor 1,99,0.0056,3,False
+FUS,2521,FUS,FUS DNA/RNA binding protein,89,0.00411,76,False
+POLK,51426,POLK,DNA polymerase kappa,12,0.00014,57,False
+CLSPN,63967,CLSPN,claspin,14,0.00012,57,True
+IGF2BP1,10642,IGF2BP1,insulin like growth factor 2 mRNA binding protein 1,85,0.00046,43,False
+VCP,7415,VCP,valosin containing protein,114,0.00403,80,False
+RPL18,6141,RPL18,ribosomal protein L18,111,0.00111,43,False
+UBE2W,55284,UBE2W,ubiquitin conjugating enzyme E2 W,14,0.00014,10,False
+ISG15,9636,ISG15,ISG15 ubiquitin like modifier,38,0.00047,65,False
+LMNA,4000,LMNA,lamin A/C,73,0.0019,62,False
+ID:66661,66661,ID:66661,unknown,50,0.00057,43,False
+HUWE1,10075,HUWE1,"HECT, UBA and WWE domain containing E3 ubiquitin protein ligase 1",108,0.00468,19,False
+LIG1,3978,LIG1,DNA ligase 1,23,0.00017,57,True
+POLA1,5422,POLA1,"DNA polymerase alpha 1, catalytic subunit",31,0.00022,57,False
+RBBP4,5928,RBBP4,"RB binding protein 4, chromatin remodeling factor",79,0.00239,69,False
+FAAP20,199990,FAAP20,FA core complex associated protein 20,15,0.00034,57,False
+UBE2D1,7321,UBE2D1,ubiquitin conjugating enzyme E2 D1,47,0.00114,10,False
+YY1,7528,YY1,YY1 transcription factor,51,0.0012,51,False
+TERF2,7014,TERF2,telomeric repeat binding factor 2,68,0.00283,33,True
+TBP,6908,TBP,TATA-box binding protein,58,0.0016,69,False
+RAD52,5893,RAD52,RAD52 DNA repair protein,23,0.00023,57,True
+MCC,4163,MCC,MCC regulator of Wnt signaling pathway,39,0.0005,65,False
+SRSF2,6427,SRSF2,serine and arginine rich splicing factor 2,64,0.0014,23,False
+KMT5A,387893,KMT5A,lysine methyltransferase 5A,24,0.00024,63,True
+APEX1,328,APEX1,apurinic/apyrimidinic endodeoxyribonuclease 1,36,0.00068,57,True
+NUCLEOLIN,4691,NUCLEOLIN,nucleolin multifunctional protein,140,0.00486,43,False
+CRK,1398,CRK,"CRK proto-oncogene, adaptor protein",35,0.00073,2,False
+SIRT6,51548,SIRT6,sirtuin 6,41,0.00061,69,False
+BAZ1B,9031,BAZ1B,bromodomain adjacent to zinc finger domain 1B,33,0.00026,69,False
+ID:24253,24253,ID:24253,unknown,23,0.00042,69,False
+H4C4,8360,H4C4,H4 clustered histone 4,32,0.00026,63,False
+FANCA,2175,FANCA,FA complementation group A,42,0.00239,57,True
+PSMA1,5682,PSMA1,proteasome 20S subunit alpha 1,37,0.00056,19,False
+BRCA1,672,BRCA1,BRCA1 DNA repair associated,196,0.02828,24,True
+PARP3,10039,PARP3,poly(ADP-ribose) polymerase family member 3,5,2e-05,63,True
+MORF4L2,9643,MORF4L2,mortality factor 4 like 2,30,0.00042,51,False
+MTA1,9112,MTA1,metastasis associated 1,40,0.00059,69,False
+PIDD1,55367,PIDD1,p53-induced death domain protein 1,11,0.00011,29,False
+BRCA2,675,BRCA2,BRCA2 DNA repair associated,41,0.00122,57,True
+CCNE1,898,CCNE1,cyclin E1,29,0.00021,21,False
+CDC5L,988,CDC5L,cell division cycle 5 like,63,0.00082,23,False
+DDB1,1642,DDB1,damage specific DNA binding protein 1,162,0.01099,20,True
+RPS7,6201,RPS7,ribosomal protein S7,110,0.0009,43,False
+ERCC4,2072,ERCC4,"ERCC excision repair 4, endonuclease catalytic subunit",68,0.00149,43,True
+OTUB1,55611,OTUB1,"OTU deubiquitinase, ubiquitin aldehyde binding 1",28,0.00029,10,False
+FANCM,57697,FANCM,FA complementation group M,20,0.00053,57,True
+UBE2V2,7336,UBE2V2,ubiquitin conjugating enzyme E2 V2,17,0.00018,71,True
+CUL4A,8451,CUL4A,cullin 4A,143,0.00541,20,True
+POLR1A,25885,POLR1A,RNA polymerase I subunit A,62,0.00067,43,False
+CDC42,998,CDC42,cell division cycle 42,24,0.00031,2,False
+CDK2,1017,CDK2,cyclin dependent kinase 2,190,0.01484,21,False
+MAP3K1,4214,MAP3K1,mitogen-activated protein kinase kinase kinase 1,62,0.00106,10,False
+CCT3,7203,CCT3,chaperonin containing TCP1 subunit 3,51,0.00081,53,False
+PRKDC,5591,PRKDC,"protein kinase, DNA-activated, catalytic subunit",142,0.01264,57,True
+NUF2,83540,NUF2,NUF2 component of NDC80 kinetochore complex,8,5e-05,50,False
+CHEK2,11200,CHEK2,checkpoint kinase 2,39,0.0008,57,True
+RPL7A,6130,RPL7A,ribosomal protein L7a,109,0.00081,43,False
+SCARNA22,677770,SCARNA22,small Cajal body-specific RNA 22,35,0.00019,62,False
+CELA2B,51032,CELA2B,chymotrypsin like elastase 2B,6,1e-05,57,False
+BACH1,571,BACH1,BTB domain and CNC homolog 1,21,0.00018,57,False
+KAT5,10524,KAT5,lysine acetyltransferase 5,74,0.00276,51,True
+PALB2,79728,PALB2,partner and localizer of BRCA2,14,0.00014,57,True
+CPSF3,51692,CPSF3,cleavage and polyadenylation specific factor 3,15,6e-05,76,False
+MUTYH,4595,MUTYH,mutY DNA glycosylase,8,3e-05,57,True
+H2BC1,255626,H2BC1,H2B clustered histone 1,29,0.0004,51,False
+HUS1,3364,HUS1,HUS1 checkpoint clamp component,21,0.00028,57,True
+HNRNPD,3184,HNRNPD,heterogeneous nuclear ribonucleoprotein D,85,0.00125,40,False
+HDAC11,79885,HDAC11,histone deacetylase 11,23,0.00032,62,False
+SMARCA5,8467,SMARCA5,SNF2 related chromatin remodeling ATPase 5,83,0.00362,69,False
+PMS1,5378,PMS1,"PMS1 homolog 1, mismatch repair system component",22,0.00018,57,False
+CDC25A,993,CDC25A,cell division cycle 25A,23,0.00011,21,True
+RPS16,6217,RPS16,ribosomal protein S16,108,0.00098,43,False
+DCLRE1B,64858,DCLRE1B,DNA cross-link repair 1B,10,4e-05,33,False
+ACTG1,71,ACTG1,actin gamma 1,41,0.00041,54,False
+PCMT1,5110,PCMT1,protein-L-isoaspartate (D-aspartate) O-methyltransferase,24,0.00011,65,False
+RAD21,5885,RAD21,RAD21 cohesin complex component,80,0.0032,69,False
+CUL1,8454,CUL1,cullin 1,188,0.00825,20,False
+PGAM5,192111,PGAM5,"PGAM family member 5, mitochondrial serine/threonine protein phosphatase",22,0.0001,20,False
+H3C2,8358,H3C2,H3 clustered histone 2,28,0.00022,63,False
+YEATS4,8089,YEATS4,YEATS domain containing 4,24,0.00034,51,False
+NTRK1,4914,NTRK1,neurotrophic receptor tyrosine kinase 1,224,0.02535,73,False
+DICER1,23405,DICER1,"dicer 1, ribonuclease III",67,0.00108,43,False
+POLR2E,5434,POLR2E,"RNA polymerase II, I and III subunit E",37,0.00051,24,False
+LIG4,3981,LIG4,DNA ligase 4,35,0.00079,57,True
+HDAC6,10013,HDAC6,histone deacetylase 6,67,0.00226,63,False
+FOXP1,27086,FOXP1,forkhead box P1,12,5e-05,14,False
+HSP90B1,7184,HSP90B1,heat shock protein 90 beta family member 1,43,0.00051,80,False
+PSMD3,5709,PSMD3,"proteasome 26S subunit, non-ATPase 3",49,0.00048,19,False
+GEN1,348654,GEN1,GEN1 structure-specific endonuclease,2,0.0,64,True
+SAMHD1,25939,SAMHD1,SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1,23,0.00012,17,False
+DHX9,1660,DHX9,DExH-box helicase 9,135,0.00352,23,False
+RPL27,6155,RPL27,ribosomal protein L27,86,0.00039,43,False
+SMARCA4,6597,SMARCA4,SWI/SNF related BAF chromatin remodeling complex subunit ATPase 4,71,0.00189,69,False
+E2F1,1869,E2F1,E2F transcription factor 1,40,0.00051,21,False
+CHEK1,1111,CHEK1,checkpoint kinase 1,44,0.00095,57,True
+EXO1,9156,EXO1,exonuclease 1,9,0.0001,57,False
+NOTCH1,4851,NOTCH1,notch receptor 1,44,0.00068,50,False
+DNAJA2,10294,DNAJA2,DnaJ heat shock protein family (Hsp40) member A2,42,0.00045,17,False
+BRIP1,83990,BRIP1,BRCA1 interacting DNA helicase 1,11,6e-05,57,True
+PRPF19,27339,PRPF19,pre-mRNA processing factor 19,74,0.00117,23,True
+EXOSC2,23404,EXOSC2,exosome component 2,11,5e-05,12,False
+ILF2,3608,ILF2,interleukin enhancer binding factor 2,111,0.00184,43,False
+HNRNPA1,3178,HNRNPA1,heterogeneous nuclear ribonucleoprotein A1,146,0.00405,40,False
+MOV10,4343,MOV10,Mov10 RNA helicase,137,0.00886,3,False
+PRPF3,9129,PRPF3,pre-mRNA processing factor 3,88,0.00093,23,False
+SETDB1,9869,SETDB1,SET domain bifurcated histone lysine methyltransferase 1,34,0.00072,63,False
+APP,351,APP,amyloid beta precursor protein,116,0.01415,1,False
+STAU1,6780,STAU1,staufen double-stranded RNA binding protein 1,77,0.00083,14,False
+TOP3A,7156,TOP3A,DNA topoisomerase III alpha,18,0.00044,57,False
+POLQ,10721,POLQ,DNA polymerase theta,1,0.0,57,True
+RBBP7,5931,RBBP7,"RB binding protein 7, chromatin remodeling factor",66,0.00187,69,False
+NONO,4841,NONO,non-POU domain containing octamer binding,72,0.00142,42,False
+FEN1,2237,FEN1,flap structure-specific endonuclease 1,23,0.0004,57,False
+H4C13,8368,H4C13,H4 clustered histone 13,32,0.00025,63,False
+H1-1,3024,H1-1,"H1.1 linker histone, cluster member",34,0.00066,21,False
+CDK1,983,CDK1,cyclin dependent kinase 1,96,0.00542,21,False
+HDAC1,3065,HDAC1,histone deacetylase 1,130,0.00978,69,False
+ID:155908,155908,ID:155908,unknown,45,0.00052,57,False
+CLK2,1196,CLK2,CDC like kinase 2,16,0.00011,57,False
+ECT2,1894,ECT2,epithelial cell transforming 2,29,0.00039,37,False
+PML,5371,PML,PML nuclear body scaffold,72,0.00266,18,False
+KARS1,3735,KARS1,lysyl-tRNA synthetase 1,76,0.00059,43,False
+TTI1,9675,TTI1,TELO2 interacting protein 1,12,4e-05,51,False
+MATR3,9782,MATR3,matrin 3,91,0.00121,43,False
+ID:4961527,4961527,ID:4961527,unknown,20,0.00061,57,False
+NAE1,8883,NAE1,NEDD8 activating enzyme E1 subunit 1,53,0.00017,43,False
+RACGAP1,29127,RACGAP1,Rac GTPase activating protein 1,31,0.00033,68,False
+SUMO3,6612,SUMO3,small ubiquitin like modifier 3,77,0.00106,43,False
+TRAF2,7186,TRAF2,TNF receptor associated factor 2,50,0.00095,29,False
+TERF1,7013,TERF1,telomeric repeat binding factor 1,57,0.00155,33,False
+MSH2,4436,MSH2,mutS homolog 2,65,0.00328,57,True
+RPS3A,6189,RPS3A,ribosomal protein S3A,113,0.00176,43,False
+FANCD2,2177,FANCD2,FA complementation group D2,42,0.00196,57,True
+DDX3X,1654,DDX3X,DEAD-box helicase 3 X-linked,108,0.00185,23,False
+RPS26P25,728937,RPS26P25,ribosomal protein S26 pseudogene 25,74,0.00015,43,False
+H4C2,8366,H4C2,H4 clustered histone 2,33,0.0003,63,False
+MEPCE,56257,MEPCE,methylphosphate capping enzyme,54,0.00065,23,False
+KAT2A,2648,KAT2A,lysine acetyltransferase 2A,41,0.00075,51,False
+BUB1,699,BUB1,BUB1 mitotic checkpoint serine/threonine kinase,9,6e-05,50,True
+RPL10,6134,RPL10,ribosomal protein L10,91,0.00194,43,False
+SMC2,10592,SMC2,structural maintenance of chromosomes 2,33,0.00054,14,False
+ID:66489,66489,ID:66489,unknown,37,0.00045,40,False
+H3-3A,3020,H3-3A,H3.3 histone A,48,0.00082,63,False
+TRAF6,7189,TRAF6,TNF receptor associated factor 6,72,0.00252,29,False
+PRDX3,10935,PRDX3,peroxiredoxin 3,19,0.0003,37,False
+SMARCB1,6598,SMARCB1,SWI/SNF related BAF chromatin remodeling complex subunit B1,52,0.00074,69,False
+H4C14,8370,H4C14,H4 clustered histone 14,41,0.00053,63,False
+CUL3,8452,CUL3,cullin 3,213,0.01542,20,False
+RPL7,6129,RPL7,ribosomal protein L7,120,0.00099,43,False
+U2AF2,11338,U2AF2,U2 small nuclear RNA auxiliary factor 2,86,0.00103,23,False
+RB1,5925,RB1,RB transcriptional corepressor 1,68,0.00166,21,False
+H2BC8,8339,H2BC8,H2B clustered histone 8,37,0.00139,51,False
+H3C12,8356,H3C12,H3 clustered histone 12,30,0.00028,63,False
+MDM2,4193,MDM2,MDM2 proto-oncogene,115,0.00562,0,False
+NHEJ1,79840,NHEJ1,non-homologous end joining factor 1,7,2e-05,57,False
+SET,6418,SET,SET nuclear proto-oncogene,46,0.00077,53,False
+CCNB1,891,CCNB1,cyclin B1,43,0.0008,21,False
+XIAP,331,XIAP,X-linked inhibitor of apoptosis,32,0.00064,29,False
+LARP7,51574,LARP7,"La ribonucleoprotein 7, transcriptional regulator",28,0.00019,62,False
+RFC4,5984,RFC4,replication factor C subunit 4,50,0.00084,57,False
+RECQL,5965,RECQL,RecQ like helicase,22,0.00017,57,False
+MAPK3,5595,MAPK3,mitogen-activated protein kinase 3,48,0.00098,18,False
+IKBKG,8517,IKBKG,inhibitor of nuclear factor kappa B kinase regulatory subunit gamma,77,0.00251,29,False
+SSB,6741,SSB,small RNA binding exonuclease protection factor La,45,0.00038,62,False
+H4C6,8361,H4C6,H4 clustered histone 6,53,0.00099,63,False
+MCM7,4176,MCM7,minichromosome maintenance complex component 7,55,0.00138,21,False
+SP1,6667,SP1,Sp1 transcription factor,74,0.00156,18,False
+BABAM2,9577,BABAM2,BRISC and BRCA1 A complex member 2,19,0.00013,57,False
+UBB,7314,UBB,ubiquitin B,58,0.00133,10,False
+GRK5,2869,GRK5,G protein-coupled receptor kinase 5,34,0.00027,77,False
+MUS81,80198,MUS81,MUS81 structure-specific endonuclease subunit,12,8e-05,50,True
+TUBB,203068,TUBB,tubulin beta class I,95,0.00164,40,False
+POLR2A,5430,POLR2A,RNA polymerase II subunit A,90,0.00436,24,False
+SMAD2,4087,SMAD2,SMAD family member 2,52,0.00089,18,False
+ACTB,60,ACTB,actin beta,112,0.00356,40,False
+PIAS4,51588,PIAS4,protein inhibitor of activated STAT 4,23,0.00021,18,False
+FOXO3,2309,FOXO3,forkhead box O3,32,0.00033,18,False
+HSPA4,3308,HSPA4,heat shock protein family A (Hsp70) member 4,89,0.00302,36,False
+CDKN2A,1029,CDKN2A,cyclin dependent kinase inhibitor 2A,57,0.00077,21,False
+UBE2I,7329,UBE2I,ubiquitin conjugating enzyme E2 I,96,0.0044,18,False
+FANCF,2188,FANCF,FA complementation group F,14,8e-05,57,True
+RPS2,6187,RPS2,ribosomal protein S2,123,0.00142,43,False
+SRPK2,6733,SRPK2,SRSF protein kinase 2,44,0.00081,11,False
+NFKB1,4790,NFKB1,nuclear factor kappa B subunit 1,66,0.00089,29,False
+YWHAE,7531,YWHAE,tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon,66,0.00145,9,False
+TERF2IP,54386,TERF2IP,TERF2 interacting protein,33,0.00077,33,False
+KDM1A,23028,KDM1A,lysine demethylase 1A,68,0.00298,69,False
+NCOA6,23054,NCOA6,nuclear receptor coactivator 6,32,0.00017,18,False
+PSMA3,5684,PSMA3,proteasome 20S subunit alpha 3,63,0.00091,19,False
+TUBG1,7283,TUBG1,tubulin gamma 1,61,0.00102,56,False
+FBL,2091,FBL,fibrillarin rRNA 2'-O-methyltransferase,107,0.00231,43,False
+PIN1,5300,PIN1,"peptidylprolyl cis/trans isomerase, NIMA-interacting 1",45,0.00064,66,False
+XRCC3,7517,XRCC3,X-ray repair cross complementing 3,22,0.00123,17,True
+NSMCE2,286053,NSMCE2,NSE2 SUMO ligase component of SMC5/6 complex,10,0.00013,11,True
+FN1,2335,FN1,fibronectin 1,126,0.00322,52,False
+MEOX2,4223,MEOX2,mesenchyme homeobox 2,33,0.00119,70,False
+RPS20,6224,RPS20,ribosomal protein S20,92,0.00053,43,False
+BUB1B,701,BUB1B,BUB1 mitotic checkpoint serine/threonine kinase B,25,0.00038,50,False
+PABPC1,26986,PABPC1,poly(A) binding protein cytoplasmic 1,114,0.00187,23,False
+SKP1,6500,SKP1,S-phase kinase associated protein 1,62,0.00108,29,False
+STUB1,10273,STUB1,STIP1 homology and U-box containing protein 1,52,0.00129,10,False
+HECW2,57520,HECW2,"HECT, C2 and WW domain containing E3 ubiquitin protein ligase 2",29,0.0016,7,False
+RPL10A,4736,RPL10A,ribosomal protein L10a,94,0.00068,43,False
+HSPA9,3313,HSPA9,heat shock protein family A (Hsp70) member 9,78,0.00113,17,False
+H4C3,8364,H4C3,H4 clustered histone 3,27,0.00018,63,False
+H3C3,8352,H3C3,H3 clustered histone 3,32,0.00029,63,False
+YWHAZ,7534,YWHAZ,tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta,128,0.00626,9,False
+SIRT1,23411,SIRT1,sirtuin 1,51,0.00083,17,False
+SSX2IP,117178,SSX2IP,SSX family member 2 interacting protein,26,0.00063,64,False
+ATRX,546,ATRX,ATRX chromatin remodeler,25,0.00033,63,False
+RPL35A,6165,RPL35A,ribosomal protein L35a,80,0.0003,43,False
+DHX15,1665,DHX15,DEAH-box helicase 15,90,0.00092,23,False
+RNF4,6047,RNF4,ring finger protein 4,25,0.00039,10,True
+RPS15A,6210,RPS15A,ribosomal protein S15a,105,0.00084,43,False
+PNKP,11284,PNKP,polynucleotide kinase 3'-phosphatase,25,0.00038,57,False
+DAXX,1616,DAXX,death domain associated protein,66,0.00231,63,False
+PPM1G,5496,PPM1G,"protein phosphatase, Mg2+/Mn2+ dependent 1G",44,0.00059,23,False
+CRY2,1408,CRY2,cryptochrome circadian regulator 2,48,0.00065,42,False
+MRE11,4361,MRE11,MRE11 double strand break repair nuclease,69,0.00364,57,True
+MDM4,4194,MDM4,MDM4 regulator of p53,33,0.00027,10,False
+UBE2E3,10477,UBE2E3,ubiquitin conjugating enzyme E2 E3,21,0.00019,10,False
+RFC2,5982,RFC2,replication factor C subunit 2,45,0.00081,57,False
+HNRNPA2B1,3181,HNRNPA2B1,heterogeneous nuclear ribonucleoprotein A2/B1,91,0.00132,23,False
+TRIM29,23650,TRIM29,tripartite motif containing 29,21,0.00012,75,False
+SUMO1,7341,SUMO1,small ubiquitin like modifier 1,46,0.00089,18,False
+STAG2,10735,STAG2,STAG2 cohesin complex component,24,0.00041,69,True
+KPNA2,3838,KPNA2,karyopherin subunit alpha 2,56,0.00103,29,False
+ATR,545,ATR,ATR checkpoint kinase,60,0.00387,57,True
+UBE2M,9040,UBE2M,ubiquitin conjugating enzyme E2 M,73,0.00056,43,False
+FZR1,51343,FZR1,fizzy and cell division cycle 20 related 1,36,0.00098,50,False
+SMARCA2,6595,SMARCA2,SWI/SNF related BAF chromatin remodeling complex subunit ATPase 2,49,0.0008,69,False
+PSMD2,5708,PSMD2,"proteasome 26S subunit ubiquitin receptor, non-ATPase 2",80,0.00082,19,False
+CHAF1A,10036,CHAF1A,chromatin assembly factor 1 subunit A,40,0.00071,63,False
+PCBP1,5093,PCBP1,poly(rC) binding protein 1,45,0.00046,65,False
+WDR33,55339,WDR33,WD repeat domain 33,17,0.00016,76,False
+RPS4X,6191,RPS4X,ribosomal protein S4 X-linked,119,0.00111,43,False
+HNRNPC,3183,HNRNPC,heterogeneous nuclear ribonucleoprotein C,117,0.00299,43,False
+FANCB,2187,FANCB,FA complementation group B,12,6e-05,57,True
+BANF1,8815,BANF1,barrier to autointegration nuclear assembly factor 1,30,0.00046,69,False
+NDC80,10403,NDC80,NDC80 kinetochore complex component,18,0.00027,50,False
+PGR,5241,PGR,progesterone receptor,26,0.00019,18,False
+PHGDH,26227,PHGDH,phosphoglycerate dehydrogenase,37,0.00029,65,False
+HSP90AA2P,3324,HSP90AA2P,"heat shock protein 90 alpha family class A member 2, pseudogene",28,0.0001,20,False
+VHL,7428,VHL,von Hippel-Lindau tumor suppressor,83,0.00215,65,False
+THRB,7068,THRB,thyroid hormone receptor beta,16,5e-05,18,False
+ATF2,1386,ATF2,activating transcription factor 2,43,0.00058,18,False
+HNRNPF,3185,HNRNPF,heterogeneous nuclear ribonucleoprotein F,93,0.00118,23,False
+DCLRE1C,64421,DCLRE1C,DNA cross-link repair 1C,10,3e-05,57,False
+RBM14,10432,RBM14,RNA binding motif protein 14,41,0.00032,11,False
+BLM,641,BLM,BLM RecQ like helicase,62,0.00491,57,True
+H3-4,8290,H3-4,"H3.4 histone, cluster member",56,0.00127,69,False
+ALYREF,10189,ALYREF,Aly/REF export factor,64,0.00045,23,False
+ATRIP,84126,ATRIP,ATR interacting protein,20,0.00031,57,True
+XRCC6,2547,XRCC6,X-ray repair cross complementing 6,108,0.00558,57,True
+LIG3,3980,LIG3,DNA ligase 3,32,0.0008,57,True
+IGF2BP3,10643,IGF2BP3,insulin like growth factor 2 mRNA binding protein 3,69,0.00055,23,False
+RUVBL1,8607,RUVBL1,RuvB like AAA ATPase 1,96,0.00373,51,True
+CAPZB,832,CAPZB,capping actin protein of muscle Z-line subunit beta,29,0.00019,54,False
+H3C6,8353,H3C6,H3 clustered histone 6,73,0.00165,63,False
+TAF5L,27097,TAF5L,TATA-box binding protein associated factor 5 like,18,9e-05,51,False
+CUL4B,8450,CUL4B,cullin 4B,117,0.00336,20,True
+DTL,51514,DTL,denticleless E3 ubiquitin protein ligase adapter,26,0.00054,20,False
+EMD,2010,EMD,emerin,56,0.00063,17,False
+ERCC2,2068,ERCC2,"ERCC excision repair 2, TFIIH core complex helicase subunit",23,0.00042,24,True
+RPL24,6152,RPL24,ribosomal protein L24,105,0.0011,43,False
+PAXIP1,22976,PAXIP1,PAX interacting protein 1,59,0.00171,25,False
+H3C1,8350,H3C1,H3 clustered histone 1,87,0.00557,63,False
+OFD1,8481,OFD1,OFD1 centriole and centriolar satellite protein,20,0.0002,64,False
+TOPBP1,11073,TOPBP1,DNA topoisomerase II binding protein 1,39,0.00134,57,True
+CAND1,55832,CAND1,cullin associated and neddylation dissociated 1,145,0.00561,20,False
+SKP2,6502,SKP2,S-phase kinase associated protein 2,44,0.00062,21,False
+RPL9,6133,RPL9,ribosomal protein L9,95,0.00049,43,False
+PSMA6,5687,PSMA6,proteasome 20S subunit alpha 6,45,0.00059,19,False
+RPS13,6207,RPS13,ribosomal protein S13,112,0.00076,43,False
+TP53BP1,7158,TP53BP1,tumor protein p53 binding protein 1,72,0.00331,63,True
+PRKN,5071,PRKN,parkin RBR E3 ubiquitin protein ligase,91,0.00276,19,False
+YWHAQ,10971,YWHAQ,tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein theta,78,0.00198,9,False
+SMC6,79677,SMC6,structural maintenance of chromosomes 6,7,0.00017,11,True
+UBE2A,7319,UBE2A,ubiquitin conjugating enzyme E2 A,22,0.0003,71,False
+CBX5,23468,CBX5,chromobox 5,49,0.0011,63,False
+RASSF1,11186,RASSF1,Ras association domain family member 1,19,0.0001,28,False
+CNTROB,116840,CNTROB,"centrobin, centriole duplication and spindle assembly protein",17,0.00032,64,False
+MCM5,4174,MCM5,minichromosome maintenance complex component 5,111,0.00221,21,False
+ERCC1,2067,ERCC1,"ERCC excision repair 1, endonuclease non-catalytic subunit",10,7e-05,51,True
+SIAH1,6477,SIAH1,siah E3 ubiquitin protein ligase 1,22,0.00019,10,False
+EME1,146956,EME1,essential meiotic structure-specific endonuclease 1,13,0.00047,50,True
+WRN,7486,WRN,WRN RecQ like helicase,34,0.00073,57,True
+BARD1,580,BARD1,BRCA1 associated RING domain 1,86,0.0049,57,True
+FOXB1,27023,FOXB1,forkhead box B1,18,0.00032,14,False
+PPIA,5478,PPIA,peptidylprolyl isomerase A,31,0.00024,65,False
+HARS1,3035,HARS1,histidyl-tRNA synthetase 1,64,0.00021,43,False
+CCDC8,83987,CCDC8,coiled-coil domain containing 8 subunit of 3M complex,100,0.00239,14,False
+PDS5B,23047,PDS5B,PDS5 cohesin associated factor B,17,0.00038,69,False
+CDK7,1022,CDK7,cyclin dependent kinase 7,41,0.00081,21,False
+RAD51B,5890,RAD51B,RAD51 paralog B,27,0.00129,63,True
+GOLGA2,2801,GOLGA2,golgin A2,36,0.00095,75,False
+HES1,3280,HES1,hes family bHLH transcription factor 1,20,0.00035,41,False
+SMC1A,8243,SMC1A,structural maintenance of chromosomes 1A,64,0.00298,69,True
+SMC5,23137,SMC5,structural maintenance of chromosomes 5,6,6e-05,11,True
+SMARCAD1,56916,SMARCAD1,SNF2 related chromatin remodeling ATPase with DExD box 1,55,0.00107,69,True
+MACROH2A1,9555,MACROH2A1,macroH2A.1 histone,35,0.00042,63,True
+XPO1,7514,XPO1,exportin 1,135,0.00997,4,False
+UBC,7316,UBC,ubiquitin C,174,0.01685,10,False
+CENPS,378708,CENPS,centromere protein S,12,8e-05,57,False
+SF3B2,10992,SF3B2,splicing factor 3b subunit 2,82,0.00117,23,False
+CENPB,1059,CENPB,centromere protein B,28,0.00062,68,False
+KPNA1,3836,KPNA1,karyopherin subunit alpha 1,38,0.00052,62,False
+TRIM28,10155,TRIM28,tripartite motif containing 28,79,0.00223,63,False
+CASP3,836,CASP3,caspase 3,33,0.00051,29,False
+EEF2,1938,EEF2,eukaryotic translation elongation factor 2,107,0.00155,43,False
+TOPORS,10210,TOPORS,"TOP1 binding arginine/serine rich protein, E3 ubiquitin ligase",20,0.00015,10,False
+FANCI,55215,FANCI,FA complementation group I,23,0.00099,57,True
+CDK9,1025,CDK9,cyclin dependent kinase 9,61,0.0013,21,False
+PPP1CA,5499,PPP1CA,protein phosphatase 1 catalytic subunit alpha,68,0.00101,54,False
+DMAP1,55929,DMAP1,DNA methyltransferase 1 associated protein 1,26,0.00021,51,False
+NPM1,4869,NPM1,nucleophosmin 1,167,0.00818,43,False
+MAP3K3,4215,MAP3K3,mitogen-activated protein kinase kinase kinase 3,55,0.00077,53,False
+EGFR,1956,EGFR,epidermal growth factor receptor,90,0.00344,2,False
+TAF15,8148,TAF15,TATA-box binding protein associated factor 15,36,0.00016,51,False
+NLRP2,55655,NLRP2,NLR family pyrin domain containing 2,18,5e-05,57,False
+RAD1,5810,RAD1,RAD1 checkpoint DNA exonuclease,18,0.00022,57,True
+HSPA8,3312,HSPA8,heat shock protein family A (Hsp70) member 8,133,0.00501,19,False
+POLB,5423,POLB,DNA polymerase beta,20,0.00042,57,False
+FAAP100,80233,FAAP100,FA core complex associated protein 100,12,8e-05,57,False
+SLX4,84464,SLX4,SLX4 structure-specific endonuclease subunit,38,0.00093,62,True
+H2BC3,3018,H2BC3,H2B clustered histone 3,28,0.00022,63,False
+MTA2,9219,MTA2,metastasis associated 1 family member 2,52,0.00064,69,False
+RPS8,6202,RPS8,ribosomal protein S8,122,0.00143,43,False
+UBE3A,7337,UBE3A,ubiquitin protein ligase E3A,36,0.00088,19,False
+RMI1,80010,RMI1,RecQ mediated genome instability 1,17,0.0002,57,False
+MYC,4609,MYC,"MYC proto-oncogene, bHLH transcription factor",137,0.00742,51,False
+MAPK1,5594,MAPK1,mitogen-activated protein kinase 1,59,0.00151,18,False
+JUP,3728,JUP,junction plakoglobin,26,0.00017,47,False
+RAD9A,5883,RAD9A,RAD9 checkpoint clamp component A,25,0.00043,57,True
+MED17,9440,MED17,mediator complex subunit 17,16,0.00016,24,False
+ERCC5,2073,ERCC5,"ERCC excision repair 5, endonuclease",10,8e-05,24,True
+REV1,51455,REV1,REV1 DNA directed polymerase,9,7e-05,57,True
+APLF,200558,APLF,aprataxin and PNKP like factor,21,0.00025,57,False
+CUL2,8453,CUL2,cullin 2,137,0.0037,20,False
+LMO4,8543,LMO4,LIM domain only 4,18,0.00013,75,False
+VIM,7431,VIM,vimentin,87,0.00256,40,False
+PAN2,9924,PAN2,poly(A) specific ribonuclease subunit PAN2,67,0.00114,54,False
+H4C5,8367,H4C5,H4 clustered histone 5,34,0.00034,63,False
+UBR5,51366,UBR5,ubiquitin protein ligase E3 component n-recognin 5,45,0.00174,10,False
+HLTF,6596,HLTF,helicase like transcription factor,21,0.00041,57,True
+SOX2,6657,SOX2,SRY-box transcription factor 2,43,0.00082,69,False
+SMARCC1,6599,SMARCC1,SWI/SNF related BAF chromatin remodeling complex subunit C1,59,0.00087,69,False
+RNF168,165918,RNF168,ring finger protein 168,16,0.00018,10,True
+ACTR5,79913,ACTR5,actin related protein 5,9,7e-05,51,True
+RPL12,6136,RPL12,ribosomal protein L12,105,0.00065,43,False
+YWHAH,7533,YWHAH,tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta,84,0.0008,9,False
+EEF1A2,1917,EEF1A2,eukaryotic translation elongation factor 1 alpha 2,84,0.00058,43,False
+CDC23,8697,CDC23,cell division cycle 23,23,0.00026,50,False
+CTCF,10664,CTCF,CCCTC-binding factor,30,0.00027,69,False
+PICK1,9463,PICK1,protein interacting with PRKCA 1,22,0.00049,75,False
+COPS6,10980,COPS6,COP9 signalosome subunit 6,77,0.00134,20,False
+EP300,2033,EP300,EP300 lysine acetyltransferase,126,0.00694,18,False
+RAD51D,5892,RAD51D,RAD51 paralog D,14,0.00064,75,True
+WAPL,23063,WAPL,WAPL cohesin release factor,14,0.00016,69,False
+IK,3550,IK,IK cytokine,40,0.00036,23,False
+HIF1A,3091,HIF1A,hypoxia inducible factor 1 subunit alpha,51,0.00051,18,False
+H2AX,3014,H2AX,H2A.X variant histone,149,0.0099,57,True
+H2AC4,8335,H2AC4,H2A clustered histone 4,48,0.00039,43,False
+MAGED1,9500,MAGED1,MAGE family member D1,23,0.00028,70,False
+EHMT2,10919,EHMT2,euchromatic histone lysine methyltransferase 2,32,0.00052,63,False
+KAT8,84148,KAT8,lysine acetyltransferase 8,13,6e-05,69,False
+BMI1,648,BMI1,"BMI1 proto-oncogene, polycomb ring finger",77,0.00224,68,True
+AURKA,6790,AURKA,aurora kinase A,86,0.00445,29,True
+RPL23,9349,RPL23,ribosomal protein L23,109,0.00143,43,False
+WTAP,9589,WTAP,WT1 associated protein,45,0.00051,23,False
+ZC3H13,23091,ZC3H13,zinc finger CCCH-type containing 13,23,0.00013,68,False
+TELO2,9894,TELO2,telomere maintenance 2,19,0.0002,51,False
+IKBKE,9641,IKBKE,inhibitor of nuclear factor kappa B kinase subunit epsilon,62,0.00116,65,False
+RING1,6015,RING1,ring finger protein 1,38,0.00045,68,False
+TP73,7161,TP73,tumor protein p73,41,0.00062,21,False
+ID:155871,155871,ID:155871,unknown,84,0.00321,69,False
+UHRF1,29128,UHRF1,ubiquitin like with PHD and ring finger domains 1,33,0.00082,63,False
+UBE2N,7334,UBE2N,ubiquitin conjugating enzyme E2 N,35,0.00092,10,True
+BIRC5,332,BIRC5,baculoviral IAP repeat containing 5,19,0.00013,29,False
+POLD1,5424,POLD1,"DNA polymerase delta 1, catalytic subunit",32,0.00033,57,False
+RAD18,56852,RAD18,RAD18 E3 ubiquitin protein ligase,24,0.00096,57,True
+H4C11,8363,H4C11,H4 clustered histone 11,30,0.00025,63,False
+ANAPC7,51434,ANAPC7,anaphase promoting complex subunit 7,18,9e-05,50,False
+OGG1,4968,OGG1,8-oxoguanine DNA glycosylase,3,1e-05,57,True
+UBE2D3,7323,UBE2D3,ubiquitin conjugating enzyme E2 D3,41,0.00081,10,False
+CTBP1,1487,CTBP1,C-terminal binding protein 1,38,0.00064,69,False
+CDT1,81620,CDT1,chromatin licensing and DNA replication factor 1,36,0.00053,21,True
+TPT1,7178,TPT1,"tumor protein, translationally-controlled 1",18,0.00012,57,False
+SMAD3,4088,SMAD3,SMAD family member 3,60,0.00101,18,False
+CEP128,145508,CEP128,centrosomal protein 128,16,0.00015,64,False
+DDX5,1655,DDX5,DEAD-box helicase 5,128,0.0028,23,False
+SCN1A,6323,SCN1A,sodium voltage-gated channel alpha subunit 1,53,2e-05,43,False
+TOP1,7150,TOP1,DNA topoisomerase I,106,0.00271,43,False
+POLH,5429,POLH,DNA polymerase eta,20,0.00021,57,True
+AR,367,AR,androgen receptor,80,0.00239,18,False
+PSMA5,5686,PSMA5,proteasome 20S subunit alpha 5,29,0.00021,19,False
+CHD3,1107,CHD3,chromodomain helicase DNA binding protein 3,53,0.00132,69,False
+UBA52,7311,UBA52,ubiquitin A-52 residue ribosomal protein fusion product 1,73,0.0013,10,False
+BAG3,9531,BAG3,BAG cochaperone 3,51,0.00097,74,False
+STAG1,10274,STAG1,STAG1 cohesin complex component,22,0.00024,69,True
+ACTL6A,86,ACTL6A,actin like 6A,49,0.00097,69,False
+HSPB1,3315,HSPB1,heat shock protein family B (small) member 1,65,0.00126,30,False
+CBX2,84733,CBX2,chromobox 2,23,0.0002,68,False
